@@ -1,0 +1,20 @@
+06-24-2022_19:39:11: DL Segmenter Event Log
+06-24-2022_19:39:11: Version 1.0.3 Trial = False
+06-24-2022_19:39:11: Loading setup file information...
+06-24-2022_19:39:11: Reading JPG filenames from directory: ./sample/traffic_imgs
+06-24-2022_19:39:11: Number of JPG files identified: 18
+06-24-2022_19:39:11: Number of class labels identified: 13
+06-24-2022_19:39:11: Labels:
+06-24-2022_19:39:11: car- color (RGB hex): #ff0000
+06-24-2022_19:39:11: person- color (RGB hex): #00ff00
+06-24-2022_19:39:11: truck- color (RGB hex): #0000ff
+06-24-2022_19:39:11: traffic_light- color (RGB hex): #ffff00
+06-24-2022_19:39:11: dog- color (RGB hex): #00ffff
+06-24-2022_19:39:11: boat- color (RGB hex): #ff00ff
+06-24-2022_19:39:11: train- color (RGB hex): #8844ff
+06-24-2022_19:39:11: house- color (RGB hex): #88ff44
+06-24-2022_19:39:11: plane- color (RGB hex): #ff8844
+06-24-2022_19:39:11: table- color (RGB hex): #ff4488
+06-24-2022_19:39:11: banana- color (RGB hex): #44ff88
+06-24-2022_19:39:11: cat- color (RGB hex): #88ff88
+06-24-2022_19:39:11: background- color (RGB hex): #111111

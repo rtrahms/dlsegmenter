@@ -1,0 +1,13 @@
+car: #ff0000
+person: #00ff00
+truck: #0000ff
+traffic_light: #ffff00
+dog: #00ffff
+boat: #ff00ff
+train: #8844ff
+house: #88ff44
+plane: #ff8844
+table: #ff4488
+banana: #44ff88
+cat: #88ff88
+background: #111111

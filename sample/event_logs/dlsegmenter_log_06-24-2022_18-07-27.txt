@@ -1,0 +1,197 @@
+06-24-2022_18:07:27: DL Segmenter Event Log
+06-24-2022_18:07:27: Version 1.0.3 Trial = False
+06-24-2022_18:07:27: Loading setup file information...
+06-24-2022_18:07:27: Reading JPG filenames from directory: ./sample/traffic_imgs
+06-24-2022_18:07:27: Number of JPG files identified: 18
+06-24-2022_18:07:27: Number of class labels identified: 13
+06-24-2022_18:07:27: Labels:
+06-24-2022_18:07:27: car- color (RGB hex): #ff0000
+06-24-2022_18:07:27: person- color (RGB hex): #00ff00
+06-24-2022_18:07:27: truck- color (RGB hex): #0000ff
+06-24-2022_18:07:27: traffic_light- color (RGB hex): #ffff00
+06-24-2022_18:07:27: dog- color (RGB hex): #00ffff
+06-24-2022_18:07:27: boat- color (RGB hex): #ff00ff
+06-24-2022_18:07:27: train- color (RGB hex): #8844ff
+06-24-2022_18:07:27: house- color (RGB hex): #88ff44
+06-24-2022_18:07:27: plane- color (RGB hex): #ff8844
+06-24-2022_18:07:27: table- color (RGB hex): #ff4488
+06-24-2022_18:07:27: banana- color (RGB hex): #44ff88
+06-24-2022_18:07:27: cat- color (RGB hex): #88ff88
+06-24-2022_18:07:27: background- color (RGB hex): #111111
+06-24-2022_18:07:35: Changed label to person, color = #00ff00
+06-24-2022_18:07:35: Changed label to truck, color = #0000ff
+06-24-2022_18:07:35: Changed label to traffic_light, color = #ffff00
+06-24-2022_18:07:36: Changed label to dog, color = #00ffff
+06-24-2022_18:07:36: Changed label to boat, color = #ff00ff
+06-24-2022_18:07:36: Changed label to train, color = #8844ff
+06-24-2022_18:07:36: Changed label to house, color = #88ff44
+06-24-2022_18:07:36: Changed label to plane, color = #ff8844
+06-24-2022_18:07:36: Changed label to table, color = #ff4488
+06-24-2022_18:07:36: Changed label to banana, color = #44ff88
+06-24-2022_18:07:36: Changed label to cat, color = #88ff88
+06-24-2022_18:07:37: Changed label to background, color = #111111
+06-24-2022_18:07:37: Changed label to cat, color = #88ff88
+06-24-2022_18:07:38: Changed label to banana, color = #44ff88
+06-24-2022_18:07:38: Changed label to table, color = #ff4488
+06-24-2022_18:07:38: Changed label to plane, color = #ff8844
+06-24-2022_18:07:38: Changed label to house, color = #88ff44
+06-24-2022_18:07:38: Changed label to train, color = #8844ff
+06-24-2022_18:07:39: Changed label to boat, color = #ff00ff
+06-24-2022_18:07:39: Changed label to dog, color = #00ffff
+06-24-2022_18:07:39: Changed label to traffic_light, color = #ffff00
+06-24-2022_18:07:39: Changed label to truck, color = #0000ff
+06-24-2022_18:07:39: Changed label to person, color = #00ff00
+06-24-2022_18:07:40: Changed label to car, color = #ff0000
+06-24-2022_18:07:47: Changed label to person, color = #00ff00
+06-24-2022_18:07:47: Changed label to truck, color = #0000ff
+06-24-2022_18:07:48: Changed label to traffic_light, color = #ffff00
+06-24-2022_18:07:48: Changed label to dog, color = #00ffff
+06-24-2022_18:07:48: Changed label to boat, color = #ff00ff
+06-24-2022_18:07:48: Changed label to train, color = #8844ff
+06-24-2022_18:07:48: Changed label to house, color = #88ff44
+06-24-2022_18:07:48: Changed label to plane, color = #ff8844
+06-24-2022_18:07:48: Changed label to table, color = #ff4488
+06-24-2022_18:07:49: Changed label to banana, color = #44ff88
+06-24-2022_18:07:49: Changed label to cat, color = #88ff88
+06-24-2022_18:07:49: Changed label to background, color = #111111
+06-24-2022_18:07:56: Changed label to cat, color = #88ff88
+06-24-2022_18:07:56: Changed label to banana, color = #44ff88
+06-24-2022_18:07:56: Changed label to table, color = #ff4488
+06-24-2022_18:07:56: Changed label to plane, color = #ff8844
+06-24-2022_18:07:56: Changed label to house, color = #88ff44
+06-24-2022_18:07:56: Changed label to train, color = #8844ff
+06-24-2022_18:07:57: Changed label to boat, color = #ff00ff
+06-24-2022_18:07:57: Changed label to dog, color = #00ffff
+06-24-2022_18:07:57: Changed label to traffic_light, color = #ffff00
+06-24-2022_18:07:57: Changed label to truck, color = #0000ff
+06-24-2022_18:07:57: Changed label to person, color = #00ff00
+06-24-2022_18:07:57: Changed label to car, color = #ff0000
+06-24-2022_18:08:04: Changed label to person, color = #00ff00
+06-24-2022_18:08:05: Changed label to truck, color = #0000ff
+06-24-2022_18:08:12: Changed label to traffic_light, color = #ffff00
+06-24-2022_18:08:12: Changed label to dog, color = #00ffff
+06-24-2022_18:08:12: Changed label to boat, color = #ff00ff
+06-24-2022_18:08:12: Changed label to train, color = #8844ff
+06-24-2022_18:08:16: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02185.jpg
+06-24-2022_18:08:19: Changed label to house, color = #88ff44
+06-24-2022_18:08:19: Changed label to plane, color = #ff8844
+06-24-2022_18:08:19: Changed label to table, color = #ff4488
+06-24-2022_18:08:19: Changed label to banana, color = #44ff88
+06-24-2022_18:08:19: Changed label to cat, color = #88ff88
+06-24-2022_18:08:20: Changed label to background, color = #111111
+06-24-2022_18:08:22: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02185.jpg
+06-24-2022_18:08:24: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02185.jpg
+06-24-2022_18:08:27: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02185.jpg
+06-24-2022_18:08:29: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02185.jpg
+06-24-2022_18:08:33: Changed label to cat, color = #88ff88
+06-24-2022_18:08:33: Changed label to banana, color = #44ff88
+06-24-2022_18:08:33: Changed label to table, color = #ff4488
+06-24-2022_18:08:33: Changed label to plane, color = #ff8844
+06-24-2022_18:08:33: Changed label to house, color = #88ff44
+06-24-2022_18:08:33: Changed label to train, color = #8844ff
+06-24-2022_18:08:33: Changed label to boat, color = #ff00ff
+06-24-2022_18:08:33: Changed label to dog, color = #00ffff
+06-24-2022_18:08:33: Changed label to traffic_light, color = #ffff00
+06-24-2022_18:08:34: Changed label to truck, color = #0000ff
+06-24-2022_18:08:34: Changed label to person, color = #00ff00
+06-24-2022_18:08:34: Changed label to car, color = #ff0000
+06-24-2022_18:08:39: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02185.jpg
+06-24-2022_18:08:40: Changed label to person, color = #00ff00
+06-24-2022_18:08:40: Changed label to truck, color = #0000ff
+06-24-2022_18:08:40: Changed label to traffic_light, color = #ffff00
+06-24-2022_18:08:40: Changed label to dog, color = #00ffff
+06-24-2022_18:08:40: Changed label to boat, color = #ff00ff
+06-24-2022_18:08:41: Changed label to train, color = #8844ff
+06-24-2022_18:08:41: Changed label to house, color = #88ff44
+06-24-2022_18:08:41: Changed label to plane, color = #ff8844
+06-24-2022_18:08:41: Changed label to table, color = #ff4488
+06-24-2022_18:08:41: Changed label to banana, color = #44ff88
+06-24-2022_18:08:41: Changed label to cat, color = #88ff88
+06-24-2022_18:08:41: Changed label to background, color = #111111
+06-24-2022_18:08:43: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02185.jpg
+06-24-2022_18:08:45: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02185.jpg
+06-24-2022_18:08:46: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02185.jpg
+06-24-2022_18:08:48: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02185.jpg
+06-24-2022_18:08:50: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02185.jpg
+06-24-2022_18:08:52: Changed zoom: 0.75
+06-24-2022_18:08:52: Changed zoom: 0.75
+06-24-2022_18:08:52: Changed zoom: 0.75
+06-24-2022_18:08:52: Changed zoom: 0.75
+06-24-2022_18:08:54: Changed zoom: 1.5
+06-24-2022_18:08:54: Changed zoom: 1.5
+06-24-2022_18:08:54: Changed zoom: 1.5
+06-24-2022_18:08:54: Changed zoom: 1.5
+06-24-2022_18:08:56: Changed label to cat, color = #88ff88
+06-24-2022_18:08:56: Changed label to banana, color = #44ff88
+06-24-2022_18:08:56: Changed label to table, color = #ff4488
+06-24-2022_18:08:56: Changed label to plane, color = #ff8844
+06-24-2022_18:08:56: Changed label to house, color = #88ff44
+06-24-2022_18:08:56: Changed label to train, color = #8844ff
+06-24-2022_18:08:56: Changed label to boat, color = #ff00ff
+06-24-2022_18:08:56: Changed label to dog, color = #00ffff
+06-24-2022_18:08:56: Changed label to traffic_light, color = #ffff00
+06-24-2022_18:08:56: Changed label to truck, color = #0000ff
+06-24-2022_18:08:56: Changed label to person, color = #00ff00
+06-24-2022_18:08:56: Changed label to car, color = #ff0000
+06-24-2022_18:09:01: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02185.jpg
+06-24-2022_18:09:03: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02185.jpg
+06-24-2022_18:09:07: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02185.jpg
+06-24-2022_18:09:12: Opacity changed to 0.39
+06-24-2022_18:09:12: Opacity changed to 0.41
+06-24-2022_18:09:12: Opacity changed to 0.42
+06-24-2022_18:09:12: Opacity changed to 0.43
+06-24-2022_18:09:12: Opacity changed to 0.44
+06-24-2022_18:09:12: Opacity changed to 0.45
+06-24-2022_18:09:12: Opacity changed to 0.46
+06-24-2022_18:09:12: Opacity changed to 0.47
+06-24-2022_18:09:12: Opacity changed to 0.48
+06-24-2022_18:09:12: Opacity changed to 0.49
+06-24-2022_18:09:12: Opacity changed to 0.5
+06-24-2022_18:09:13: Opacity changed to 0.49
+06-24-2022_18:09:13: Opacity changed to 0.48
+06-24-2022_18:09:13: Opacity changed to 0.47
+06-24-2022_18:09:13: Opacity changed to 0.46
+06-24-2022_18:09:13: Opacity changed to 0.45
+06-24-2022_18:09:13: Opacity changed to 0.44
+06-24-2022_18:09:13: Opacity changed to 0.45
+06-24-2022_18:09:13: Opacity changed to 0.46
+06-24-2022_18:09:13: Opacity changed to 0.47
+06-24-2022_18:09:13: Opacity changed to 0.49
+06-24-2022_18:09:13: Opacity changed to 0.51
+06-24-2022_18:09:13: Opacity changed to 0.52
+06-24-2022_18:09:13: Opacity changed to 0.53
+06-24-2022_18:09:13: Opacity changed to 0.54
+06-24-2022_18:09:13: Opacity changed to 0.55
+06-24-2022_18:09:13: Opacity changed to 0.56
+06-24-2022_18:09:13: Opacity changed to 0.57
+06-24-2022_18:09:13: Opacity changed to 0.58
+06-24-2022_18:09:14: Opacity changed to 0.59
+06-24-2022_18:09:15: Opacity changed to 0.58
+06-24-2022_18:09:15: Opacity changed to 0.57
+06-24-2022_18:09:15: Opacity changed to 0.56
+06-24-2022_18:09:15: Opacity changed to 0.54
+06-24-2022_18:09:15: Opacity changed to 0.53
+06-24-2022_18:09:15: Opacity changed to 0.52
+06-24-2022_18:09:15: Opacity changed to 0.51
+06-24-2022_18:09:15: Opacity changed to 0.5
+06-24-2022_18:09:15: Opacity changed to 0.49
+06-24-2022_18:09:15: Opacity changed to 0.48
+06-24-2022_18:09:15: Opacity changed to 0.47
+06-24-2022_18:09:15: Opacity changed to 0.46
+06-24-2022_18:09:15: Opacity changed to 0.45
+06-24-2022_18:09:15: Opacity changed to 0.44
+06-24-2022_18:09:15: Opacity changed to 0.43
+06-24-2022_18:09:15: Opacity changed to 0.42
+06-24-2022_18:09:15: Opacity changed to 0.41
+06-24-2022_18:09:15: Opacity changed to 0.39
+06-24-2022_18:09:15: Opacity changed to 0.38
+06-24-2022_18:09:15: Opacity changed to 0.37
+06-24-2022_18:09:15: Opacity changed to 0.36
+06-24-2022_18:09:15: Opacity changed to 0.35
+06-24-2022_18:09:15: Opacity changed to 0.34
+06-24-2022_18:09:15: Opacity changed to 0.33
+06-24-2022_18:09:35: Delete all markups for image ./sample/traffic_imgs/traffic_cam_frame02197.jpg
+06-24-2022_18:09:39: Help mode, calling up dialog
+06-24-2022_18:09:49: Delete mask for image ./sample/traffic_imgs/traffic_cam_frame02197.jpg
+06-24-2022_18:09:51: Delete mask for image ./sample/traffic_imgs/traffic_cam_frame02197.jpg
+06-24-2022_18:09:57: Delete all markups for image ./sample/traffic_imgs/traffic_cam_frame02197.jpg

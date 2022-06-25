@@ -1,0 +1,71 @@
+06-24-2022_19:37:32: DL Segmenter Event Log
+06-24-2022_19:37:32: Version 1.0.3 Trial = False
+06-24-2022_19:37:32: Loading setup file information...
+06-24-2022_19:37:32: Reading JPG filenames from directory: ./sample/traffic_imgs
+06-24-2022_19:37:32: Number of JPG files identified: 18
+06-24-2022_19:37:32: Number of class labels identified: 13
+06-24-2022_19:37:32: Labels:
+06-24-2022_19:37:32: car- color (RGB hex): #ff0000
+06-24-2022_19:37:32: person- color (RGB hex): #00ff00
+06-24-2022_19:37:32: truck- color (RGB hex): #0000ff
+06-24-2022_19:37:32: traffic_light- color (RGB hex): #ffff00
+06-24-2022_19:37:32: dog- color (RGB hex): #00ffff
+06-24-2022_19:37:32: boat- color (RGB hex): #ff00ff
+06-24-2022_19:37:32: train- color (RGB hex): #8844ff
+06-24-2022_19:37:32: house- color (RGB hex): #88ff44
+06-24-2022_19:37:32: plane- color (RGB hex): #ff8844
+06-24-2022_19:37:32: table- color (RGB hex): #ff4488
+06-24-2022_19:37:32: banana- color (RGB hex): #44ff88
+06-24-2022_19:37:32: cat- color (RGB hex): #88ff88
+06-24-2022_19:37:32: background- color (RGB hex): #111111
+06-24-2022_19:37:47: Changed label to person, color = #00ff00
+06-24-2022_19:37:47: Changed label to truck, color = #0000ff
+06-24-2022_19:37:48: Changed label to traffic_light, color = #ffff00
+06-24-2022_19:37:48: Changed label to dog, color = #00ffff
+06-24-2022_19:37:48: Changed label to boat, color = #ff00ff
+06-24-2022_19:37:48: Changed label to train, color = #8844ff
+06-24-2022_19:37:48: Changed label to house, color = #88ff44
+06-24-2022_19:37:48: Changed label to plane, color = #ff8844
+06-24-2022_19:37:48: Changed label to table, color = #ff4488
+06-24-2022_19:37:48: Changed label to banana, color = #44ff88
+06-24-2022_19:37:48: Changed label to cat, color = #88ff88
+06-24-2022_19:37:48: Changed label to background, color = #111111
+06-24-2022_19:37:56: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02180.jpg
+06-24-2022_19:37:59: Changed label to cat, color = #88ff88
+06-24-2022_19:37:59: Changed label to banana, color = #44ff88
+06-24-2022_19:37:59: Changed label to table, color = #ff4488
+06-24-2022_19:37:59: Changed label to plane, color = #ff8844
+06-24-2022_19:37:59: Changed label to house, color = #88ff44
+06-24-2022_19:37:59: Changed label to train, color = #8844ff
+06-24-2022_19:37:59: Changed label to boat, color = #ff00ff
+06-24-2022_19:37:59: Changed label to dog, color = #00ffff
+06-24-2022_19:37:59: Changed label to traffic_light, color = #ffff00
+06-24-2022_19:37:59: Changed label to truck, color = #0000ff
+06-24-2022_19:37:59: Changed label to person, color = #00ff00
+06-24-2022_19:38:00: Changed label to car, color = #ff0000
+06-24-2022_19:38:05: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02180.jpg
+06-24-2022_19:38:10: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02180.jpg
+06-24-2022_19:38:12: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02180.jpg
+06-24-2022_19:38:14: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02180.jpg
+06-24-2022_19:38:16: Changed label to person, color = #00ff00
+06-24-2022_19:38:16: Changed label to truck, color = #0000ff
+06-24-2022_19:38:16: Changed label to traffic_light, color = #ffff00
+06-24-2022_19:38:17: Changed label to truck, color = #0000ff
+06-24-2022_19:38:21: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02180.jpg
+06-24-2022_19:38:22: Changed label to person, color = #00ff00
+06-24-2022_19:38:22: Changed label to car, color = #ff0000
+06-24-2022_19:38:23: Changed label to person, color = #00ff00
+06-24-2022_19:38:23: Changed label to truck, color = #0000ff
+06-24-2022_19:38:23: Changed label to traffic_light, color = #ffff00
+06-24-2022_19:38:23: Changed label to dog, color = #00ffff
+06-24-2022_19:38:23: Changed label to boat, color = #ff00ff
+06-24-2022_19:38:23: Changed label to train, color = #8844ff
+06-24-2022_19:38:23: Changed label to house, color = #88ff44
+06-24-2022_19:38:23: Changed label to plane, color = #ff8844
+06-24-2022_19:38:23: Changed label to table, color = #ff4488
+06-24-2022_19:38:23: Changed label to banana, color = #44ff88
+06-24-2022_19:38:23: Changed label to cat, color = #88ff88
+06-24-2022_19:38:24: Changed label to background, color = #111111
+06-24-2022_19:38:28: Watershed processing of markups for image ./sample/traffic_imgs/traffic_cam_frame02180.jpg
+06-24-2022_19:38:41: GT destination ./sample/dlseg_gt_images doesn't exist.  Creating!
+06-24-2022_19:38:41: Saving GT to ./sample/dlseg_gt_images

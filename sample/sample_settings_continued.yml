@@ -1,0 +1,25 @@
+---
+# DL Segmenter 
+# Sample Startup Settings File - used when continuing an annotation project (Input GT data exists)
+# For the user: Update this file with actual locations of segmenter support files and folders before use of the tool!
+
+# img_file_path: Location of the JPG images to be segmented
+img_file_path: ./sample/traffic_imgs
+
+# gt_load_file_path: Path to be used for the ground truth mask files. Files stored in this directory will be named similarly to the source JPG images
+gt_load_file_path: ./sample/dlseg_gt_images
+
+# gt_save_file_path: Path to be used for the ground truth mask files. Files stored in this directory will be named similarly to the source JPG images
+gt_save_file_path: ./sample/dlseg_gt_images
+
+# label_file_path: Path to yaml file containing the class labels & hex color codes for segmentation.  One class label & color code per line.
+# examples:
+# red_dog: #ff0000
+# blue_cat: #0000ff
+# green_bus: #00ff00
+# yellow_bird: #ffff00
+# cyan_car: #ffff00
+# purple_pig: #ff00ff
+label_file_path: ./sample/label_masks_general.txt
+
+event_log_file_path: ./sample/event_logs
