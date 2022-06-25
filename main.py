@@ -363,7 +363,7 @@ class Ui(QtWidgets.QMainWindow):
     def load_image_file_list(self):
         self.logger.log("Reading JPG filenames from directory: " + self.img_file_path)
 
-        self.img_file_list = glob.glob(self.img_file_path + "/*.jpg")
+        self.img_file_list = sorted(glob.glob(self.img_file_path + "/*.jpg"))
         #print(self.img_file_list)
 
         self.img_files_max = len(self.img_file_list)
