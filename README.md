@@ -4,6 +4,8 @@ Deep Learning Annotation Tool for semantic segmentation DNNs working on images a
 
 To start: python main.py
 
+Sample data set in sample folder
+
 Free for all to use. Questions, feedback and suggestions welcome.
 
 https://trahmstechnologies.com/
